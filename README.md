@@ -2,9 +2,9 @@
 <details open>
 <summary><h3>1. Add your details: </h3></summary>
 <ul>
-  <li> Name: </li>
-  <li> Roll Number: </li>
-  <li> Branch: </li>
+  <li> Name: Adulapuram Yuvaan Kaarthikeyaa</li>
+  <li> Roll Number: 1601-24-737-164</li>
+  <li> Branch: INF</li>
 </ul>
 </details>
 <details>
